@@ -1,0 +1,609 @@
+/* MadCap Table Style: */
+
+/*<meta sourceDocument="C:\Users\madmin\Desktop\134099\Monthly business budget1.xlsx" Version="9" />*/
+
+mcTableStyle
+{
+	name: Monthly Budget;
+}
+
+mcTableColumnStyle
+{
+	name: Column1;
+	id: 1;
+}
+
+mcTableHeadStyle
+{
+	name: Header1;
+	id: 1;
+}
+
+mcTableBodyStyle
+{
+	name: Body1;
+	id: 1;
+	background-color: #FFFFFF;
+	span: 1;
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-style: normal;
+	font-weight: normal;
+}
+
+mcTableBodyStyle
+{
+	name: Body2;
+	id: 2;
+	background-color: #E9E9E3;
+	span: 1;
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-style: normal;
+	font-weight: normal;
+}
+
+mcTableFootStyle
+{
+	name: Footer1;
+	id: 1;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-Monthly_Budget
+{
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-Monthly_Budget-Column-Column1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-Head-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadI-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadI-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadE-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadE-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadF-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadF-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadH-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadH-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadD-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadD-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadC-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadC-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadB-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadB-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadA-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadA-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadG-Column1-Header1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-HeadG-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-Foot-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootI-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootI-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootE-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootE-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootF-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootF-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootH-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootH-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootD-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootD-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootC-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootC-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootB-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootB-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootA-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootA-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootG-Column1-Footer1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-FootG-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Monthly_Budget-Body-Body1
+{
+	
+}
+
+.TableStyle-Monthly_Budget-BodyI-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyI-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyE-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyE-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyF-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyF-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyH-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyH-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyD-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyD-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyC-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyC-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyB-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyB-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyA-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyA-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyG-Column1-Body1
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-Monthly_Budget-BodyG-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-Body-Body2
+{
+	
+}
+
+.TableStyle-Monthly_Budget-BodyI-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyI-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyE-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyE-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyF-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyF-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyH-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyH-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyD-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyD-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyC-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyC-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyB-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyB-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyA-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyA-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Monthly_Budget-BodyG-Column1-Body2
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+	background-color: #E9E9E3;
+}
+
+.TableStyle-Monthly_Budget-BodyG-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Arial;
+	font-size: 10;
+	font-weight: normal;
+	font-style: normal;
+}
+
+

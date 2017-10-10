@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2017-10-09T18:20:27.7572961-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/134099/calculations.xlsx"
+      AbsoluteSource="file:///C:/Users/madmin/Desktop/134099/calculations.xlsx" />
+    <Url
+      Source="../../../../../Desktop/134099/Monthly business budget1.xlsx"
+      AbsoluteSource="file:///C:/Users/madmin/Desktop/134099/Monthly business budget1.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/calculations/Sheet1_Chart 1.png"
+      TimeStamp="10/9/2017 6:20:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/calculations/Sheet1_TextBox 2.png"
+      TimeStamp="10/9/2017 6:20:25 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/calculations.css"
+      TimeStamp="10/9/2017 6:20:25 PM" />
+    <Url
+      Source="../../Content/calculations/Sheet1.htm"
+      TimeStamp="10/9/2017 6:20:25 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Monthly Budget.css"
+      TimeStamp="10/9/2017 6:20:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/calculations/Monthly Budget Summary_BudgetOverview.png"
+      TimeStamp="10/9/2017 6:20:25 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Monthly business budget1.css"
+      TimeStamp="10/9/2017 6:20:25 PM" />
+    <Url
+      Source="../../Content/calculations/Monthly Budget Summary.htm"
+      TimeStamp="10/9/2017 6:20:26 PM" />
+    <Url
+      Source="../../Content/calculations/Monthly Budget Details.htm"
+      TimeStamp="10/9/2017 6:20:26 PM" />
+    <Url
+      Source="../TOCs/calculations.fltoc"
+      TimeStamp="10/9/2017 6:20:26 PM" />
+  </GeneratedFiles>
+</MsExcelImport>

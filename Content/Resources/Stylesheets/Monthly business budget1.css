@@ -1,0 +1,714 @@
+/*<meta sourceDocument="C:\Users\madmin\Desktop\134099\Monthly business budget1.xlsx" />*/
+
+table
+{
+	padding: 0;
+	margin: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+col
+{
+	width: 65px;
+	padding: 0;
+	margin: 0;
+}
+
+tr
+{
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+td
+{
+	font-family: Calibri;
+	font-size: 11px;
+	background: white;
+	color: black;
+	padding: 0px;
+	border: none;
+}
+
+.Default
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S21
+{
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 36px;
+}
+
+.S22
+{
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S23
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+}
+
+.S24
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DDE7ED;
+}
+
+.S25
+{
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 16px;
+}
+
+.S26
+{
+	vertical-align: bottom;
+	color: #284449;
+	font-family: "Gill Sans MT", "";
+	font-size: 12px;
+}
+
+.S28
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S30
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S31
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S32
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #F2F2F2;
+}
+
+.S33
+{
+	vertical-align: middle;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #F2F2F2;
+}
+
+.S34
+{
+	vertical-align: middle;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 12px;
+	background-color: #F2F2F2;
+}
+
+.S35
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S36
+{
+	vertical-align: middle;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S37
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #FFFFFF;
+}
+
+.S38
+{
+	vertical-align: bottom;
+	color: #FFFFFF;
+	font-family: "Gill Sans MT", "";
+	font-size: 16px;
+	background-color: #FFFFFF;
+}
+
+.S39
+{
+	vertical-align: middle;
+	color: #FFFFFF;
+	font-family: "Gill Sans MT", "";
+	font-size: 36px;
+	background-color: #FFFFFF;
+}
+
+.S40
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	text-align: left;
+	vertical-align: middle;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S41
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	vertical-align: middle;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S42
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DDE7ED;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S43
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	text-align: left;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S44
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S45
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S46
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	text-align: left;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S47
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S48
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S49
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S50
+{
+	text-align: left;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S51
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S52
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S53
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S54
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S55
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S56
+{
+	vertical-align: bottom;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S57
+{
+	vertical-align: middle;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S58
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	vertical-align: middle;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S59
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DDE7ED;
+	vertical-align: bottom;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S60
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	vertical-align: bottom;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S61
+{
+	text-align: center;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S62
+{
+	text-align: center;
+	vertical-align: bottom;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S63
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	vertical-align: bottom;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S64
+{
+	vertical-align: bottom;
+	color: #2B4B49;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #B2CAB2;
+	vertical-align: bottom;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #DCEBEA;
+}
+
+.S65
+{
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 36px;
+	text-align: left;
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 36px;
+	background-color: #FFFFFF;
+}
+
+.S66
+{
+	vertical-align: bottom;
+	color: #284449;
+	font-family: "Gill Sans MT", "";
+	font-size: 12px;
+	vertical-align: middle;
+	color: #284449;
+	font-family: "Gill Sans MT", "";
+	font-size: 12px;
+	background-color: #F2F2F2;
+}
+
+.S67
+{
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 16px;
+	text-align: left;
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 16px;
+	background-color: #FFFFFF;
+}
+
+.S68
+{
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 16px;
+	text-align: left;
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 16px;
+	background-color: #FFFFFF;
+}
+
+.S69
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S70
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	vertical-align: bottom;
+	color: #DA0000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S71
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S72
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	text-align: left;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S73
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S74
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S75
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S76
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	text-align: left;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S77
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S78
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	text-align: left;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S79
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	text-align: left;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S80
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #E9E9E3;
+}
+
+.S81
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+}
+
+.S82
+{
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	text-align: right;
+	vertical-align: bottom;
+	color: #355A61;
+	font-family: "Gill Sans MT", "";
+	font-size: 11px;
+	background-color: #FFFFFF;
+}
+
